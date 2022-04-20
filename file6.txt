@@ -1,6 +1,0 @@
-santhu = {
-    "jan"="janauary",
-    "feb"="febraury",
-    "apr"="april"
-}
-print(santhu.get("apr"))
