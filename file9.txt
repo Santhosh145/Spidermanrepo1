@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+welcome to machine learning
+=======
+welcome to Devops automation
+>>>>>>> psr
